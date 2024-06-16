@@ -1,0 +1,6 @@
+user: What is the weather today?
+user: What is Data Science?
+user: What are the key steps in a Data Science project?
+user: Can you explain the concept of overfitting in machine learning?
+user: How do you handle missing data in a dataset?
+user: What is the difference between supervised and unsupervised learning?
